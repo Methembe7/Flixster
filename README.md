@@ -15,9 +15,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Views are responsive for both landscape/portrait mode.
+* [x] User can use responsive views for both landscape/portrait mode.
 
-* [x] Improve the user interface through styling and coloring
+* [x] User can view improved user interface through styling and coloring.
 
 ## Video Walkthrough
 
@@ -28,8 +28,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Deciding on which xml file to implement the dark background.
 
 ## License
 
