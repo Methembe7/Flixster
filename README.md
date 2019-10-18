@@ -10,14 +10,14 @@ Time spent: 15 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+* [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
 
 The following **optional** features are implemented:
 
-* [ ] Views are responsive for both landscape/portrait mode.
+* [x] Views are responsive for both landscape/portrait mode.
 
-* [ ] Improve the user interface through styling and coloring
+* [x] Improve the user interface through styling and coloring
 
 ## Video Walkthrough
 
