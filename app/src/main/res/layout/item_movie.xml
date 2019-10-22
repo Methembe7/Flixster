@@ -2,6 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="#EE121212">
@@ -22,9 +23,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="7dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:textColor="#EEFFFFFF"
         android:textSize="24sp"
-        tools:text="Toy Story 4"
-        android:textColor="#EEFFFFFF"/>
+        tools:text="Toy Story 4" />
 
     <TextView
         android:id="@+id/tvOverview"
@@ -34,6 +35,6 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivPoster"
-        tools:text="Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called &quot;Forky&quot; to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy."
-        android:textColor="#EEFFFFFF"/>
+        android:textColor="#EEFFFFFF"
+        tools:text="Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called &quot;Forky&quot; to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy." />
 </RelativeLayout>
