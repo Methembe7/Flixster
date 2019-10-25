@@ -105,6 +105,12 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder>{
                     i.putExtra("movie", Parcels.wrap(movie));
                     context.startActivity(i);
 
+//                    // Pass data object in the bundle and populate details activity.
+//                    i.putExtra(DetailActivity.EXTRA_CONTACT, contact);
+//                    ActivityOptionsCompat options = ActivityOptionsCompat.
+//                            makeSceneTransitionAnimation(this, (View)ivProfile, "profile");
+//                    startActivity(i, options.toBundle());
+
                 }
             });
         }
