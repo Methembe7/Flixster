@@ -1,6 +1,12 @@
 
 
-## Flix Part 2
+## Flixster App Part 2
+
+Flixter is an android app that lets users view a list of movies sourced from the The Movie Database API, view movies' details (rating, popularity, overview) and watch the movies' trailers.
+
+Submitted by: Methembe Moyo
+
+Time spent: 8 hours spent in total
 
 ### User Stories
 
