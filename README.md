@@ -20,12 +20,12 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 <img src='walkthrough2.gif' title='Part 2 Video Walkthrough' width='' alt='Video Walkthrough II' />
 
 ### Notes
-Patience is truly a virtue
+
+Lesson learned: Patience is truly a virtue
+
 Bonus features coming soon
 
 ## Open-source libraries used
